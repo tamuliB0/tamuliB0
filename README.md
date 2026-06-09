@@ -28,8 +28,8 @@ I build the behind-the-scenes parts of websites using PHP and databases. I enjoy
 * [Expense-tracker](http://www.bhardwaj.lovestoblog.com/expense-tracker/) - A personal finance dashboard built with PHP and MySQL.
 * [Bookmarks-manager](http://www.bhardwaj.lovestoblog.com/bookmarks/) - A lightweight core PHP & MySQL application to securely save, organize, and search website links.
 ### Custom Wordpress Development
-* [Developer Portfolio Theme](https://github.com/tamuliB0/developer-portfolio-theme) — A lightweight WordPress portfolio theme built from scratch using clean template hierarchies, semantic markup, and optimized CSS layouts.
-* [Wordpress Plugin](https://github.com/tamuliB0/wordpress-plugin) — A standalone WordPress plugin built from scratch that registers custom data structures to let site owners seamlessly catalog, manage, and dynamically display a personal library.
+* [Developer Portfolio Theme](https://bhardwaj.lovestoblog.com/wp/) — A lightweight WordPress portfolio theme built from scratch using clean template hierarchies, semantic markup, and optimized CSS layouts.
+* [Wordpress Plugin](https://bhardwaj.lovestoblog.com/wp/) — A standalone WordPress plugin built from scratch that registers custom data structures to let site owners seamlessly catalog, manage, and dynamically display a personal library.
 ---
 
 ## 🎮 When I'm AFK:
